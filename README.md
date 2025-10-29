@@ -8,7 +8,7 @@ Designed for content, marketing, and operations teams, it provides **data-driven
 ## Executive Summary
 
 Organizations generate thousands of customer reviews daily, yet most remain underutilized.  
-This solution bridges that gap — automatically classifying reviews as *positive* or *negative*, quantifying sentiment confidence, and visualizing feedback patterns over time.
+This solution bridges that gap, automatically classifying reviews as *positive* or *negative*, quantifying sentiment confidence, and visualizing feedback patterns over time.
 
 **Business Impact:**
 - Optimize product and service strategies based on real-time sentiment signals.
@@ -21,33 +21,33 @@ This solution bridges that gap — automatically classifying reviews as *positiv
 ## System Architecture
 
 ```text
-                +------------------+
-                |  Raw Review CSV  |
-                +------------------+
+                 +------------------+
+                 |  Raw Review CSV  |
+                 +------------------+
                           |
                           v
-                +------------------+
-                |  Data Ingestion  |
-                | (ETL via SQLite) |
-                +------------------+
+                 +------------------+
+                 |  Data Ingestion  |
+                 | (ETL via SQLite) |
+                 +------------------+
                           |
                           v
-                +------------------+
-                |  NLP Processing  |
-                | (TF-IDF + LR)    |
-                +------------------+
+                 +------------------+
+                 |  NLP Processing  |
+                 |  (TF-IDF + LR)   |
+                 +------------------+
                           |
                           v
-                +------------------+
-                |   Model Storage  |
-                | (Joblib Artifacts) |
-                +------------------+
+                +---------------------+
+                |    Model Storage    |
+                | (Joblib Artifacts)  |
+                +---------------------+
                           |
                           v
-                +------------------+
-                |   Streamlit UI   |
-                |  Real-time Analytics |
-                +------------------+
+                +---------------------+
+                |    Streamlit UI     |
+                | Real-time Analytics |
+                +---------------------+
 ```
 
 ---
@@ -74,11 +74,11 @@ customer-sentiment-intelligence/
 
 ## Core Capabilities
 
-- **Automated Sentiment Detection** — Real-time text classification using TF-IDF + Logistic Regression.  
-- **Interactive Review Exploration** — Filter and visualize feedback by product, time, or rating.  
-- **Confidence-Based Scoring** — Probability-weighted results for transparent interpretation.  
-- **Integrated SQL Backend** — All processed reviews are persisted in SQLite for auditability.  
-- **Scalable Architecture** — Modular design ready for deployment to cloud or Docker environments.  
+- **Automated Sentiment Detection** | Real-time text classification using TF-IDF + Logistic Regression.  
+- **Interactive Review Exploration** | Filter and visualize feedback by product, time, or rating.  
+- **Confidence-Based Scoring** | Probability-weighted results for transparent interpretation.  
+- **Integrated SQL Backend** | All processed reviews are persisted in SQLite for auditability.  
+- **Scalable Architecture** | Modular design ready for deployment to cloud or Docker environments.  
 
 ---
 
@@ -98,16 +98,22 @@ customer-sentiment-intelligence/
 ## Visual Overview
 
 ### User Interface  
-![Dashboard Overview](/assets/ui_dashboard.png)
+<img width="1114" height="334" alt="Screenshot 2025-10-28 at 12-43-23 Review Sentiment Analyzer" src="https://github.com/user-attachments/assets/6df47ad3-70e4-44f1-8b80-f723021d7457" />
+
+---
 
 ### Review Analytics Explorer  
-![Dataset Insights](/assets/review_explorer.png)
+<img width="1088" height="553" alt="Screenshot 2025-10-28 at 12-43-43 Review Sentiment Analyzer" src="https://github.com/user-attachments/assets/03b6e7cb-269c-4d57-95af-71745a17595e" />
+
+---
 
 ### Sentiment Probability Distribution  
-![Confidence Histogram](/assets/insight_histogram.png)
+<img width="1028" height="395" alt="Screenshot 2025-10-28 at 12-43-53 Review Sentiment Analyzer" src="https://github.com/user-attachments/assets/922b886a-ae02-4192-a383-81a5ebafa038" />
+
+---
 
 ### Review Results Table  
-![Detailed Review Table](/assets/review_table.png)
+<img width="1039" height="465" alt="Screenshot 2025-10-28 at 12-44-08 Review Sentiment Analyzer" src="https://github.com/user-attachments/assets/ef21d1de-476c-4550-9fd9-3718deadb196" />
 
 ---
 
