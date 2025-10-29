@@ -1,0 +1,301 @@
+review_id,date,product,stars,text,label
+R0001,2025-09-30,Smartwatch S,2,The Smartwatch S has unreliable connection. I do not like it.,NEG
+R0002,2025-09-13,Headphones Lite,5,The Headphones Lite has sound quality is amazing. I love it.,POS
+R0003,2025-09-29,Laptop Pro,4,The Laptop Pro has value for money. I love it.,POS
+R0004,2025-09-24,Smartwatch S,3,The Smartwatch S has unreliable connection. I do not like it.,NEG
+R0005,2025-09-21,Headphones Lite,4,The Headphones Lite has sound quality is amazing. I love it.,POS
+R0006,2025-09-06,Smartwatch S,1,The Smartwatch S has battery drains fast. I do not like it.,NEG
+R0007,2025-09-12,Smartwatch S,4,The Smartwatch S has value for money. I love it.,POS
+R0008,2025-09-16,Laptop Pro,3,The Laptop Pro has customer support was unhelpful. I do not like it.,NEG
+R0009,2025-09-03,Phone X,2,The Phone X has battery drains fast. I do not like it.,NEG
+R0010,2025-09-12,Smartwatch S,3,The Smartwatch S has overheats easily. I do not like it.,NEG
+R0011,2025-09-15,Phone X,1,The Phone X has too expensive. I do not like it.,NEG
+R0012,2025-09-10,Phone X,4,The Phone X has comfortable to use. I love it.,POS
+R0013,2025-09-15,Phone X,3,The Phone X has value for money. I love it.,POS
+R0014,2025-09-06,Headphones Lite,3,The Headphones Lite has poor build quality. I do not like it.,NEG
+R0015,2025-09-04,Phone X,5,The Phone X has battery drains fast. I do not like it.,NEG
+R0016,2025-09-10,Smartwatch S,5,The Smartwatch S has fast and responsive. I love it.,POS
+R0017,2025-09-27,Phone X,3,The Phone X has customer support was unhelpful. I do not like it.,NEG
+R0018,2025-09-25,Laptop Pro,4,The Laptop Pro has poor build quality. I do not like it.,NEG
+R0019,2025-09-04,Laptop Pro,4,The Laptop Pro has customer support was unhelpful. I do not like it.,NEG
+R0020,2025-09-26,Phone X,5,The Phone X has battery drains fast. I do not like it.,NEG
+R0021,2025-09-19,Smartwatch S,1,The Smartwatch S has customer support was unhelpful. I do not like it.,NEG
+R0022,2025-09-18,Headphones Lite,2,The Headphones Lite has battery drains fast. I do not like it.,NEG
+R0023,2025-09-05,Laptop Pro,2,The Laptop Pro has overheats easily. I do not like it.,NEG
+R0024,2025-09-07,Phone X,3,The Phone X has value for money. I love it.,POS
+R0025,2025-10-01,Headphones Lite,5,The Headphones Lite has unreliable connection. I do not like it.,NEG
+R0026,2025-09-22,Phone X,5,The Phone X has fast and responsive. I love it.,POS
+R0027,2025-09-05,Phone X,5,The Phone X has great battery life. I love it.,POS
+R0028,2025-09-04,Headphones Lite,2,The Headphones Lite has customer support was unhelpful. I do not like it.,NEG
+R0029,2025-09-27,Phone X,5,The Phone X has value for money. I love it.,POS
+R0030,2025-09-13,Headphones Lite,5,The Headphones Lite has excellent camera. I love it.,POS
+R0031,2025-09-19,Laptop Pro,3,The Laptop Pro has battery drains fast. I do not like it.,NEG
+R0032,2025-09-24,Laptop Pro,2,The Laptop Pro has battery drains fast. I do not like it.,NEG
+R0033,2025-09-14,Laptop Pro,4,The Laptop Pro has excellent camera. I love it.,POS
+R0034,2025-09-03,Laptop Pro,1,The Laptop Pro has overheats easily. I do not like it.,NEG
+R0035,2025-09-04,Headphones Lite,2,The Headphones Lite has customer support was unhelpful. I do not like it.,NEG
+R0036,2025-09-25,Smartwatch S,2,The Smartwatch S has customer support was unhelpful. I do not like it.,NEG
+R0037,2025-09-11,Laptop Pro,2,The Laptop Pro has unreliable connection. I do not like it.,NEG
+R0038,2025-09-05,Phone X,5,The Phone X has excellent camera. I love it.,POS
+R0039,2025-09-10,Laptop Pro,3,The Laptop Pro has battery drains fast. I do not like it.,NEG
+R0040,2025-09-08,Laptop Pro,2,The Laptop Pro has battery drains fast. I do not like it.,NEG
+R0041,2025-09-09,Phone X,5,The Phone X has sleek design. I love it.,POS
+R0042,2025-09-20,Laptop Pro,5,The Laptop Pro has great battery life. I love it.,POS
+R0043,2025-09-05,Phone X,1,The Phone X has too expensive. I do not like it.,NEG
+R0044,2025-09-02,Phone X,5,The Phone X has customer support was unhelpful. I do not like it.,NEG
+R0045,2025-09-29,Headphones Lite,4,The Headphones Lite has battery drains fast. I do not like it.,NEG
+R0046,2025-09-12,Smartwatch S,4,The Smartwatch S has great battery life. I love it.,POS
+R0047,2025-09-23,Laptop Pro,4,The Laptop Pro has fast and responsive. I love it.,POS
+R0048,2025-09-28,Phone X,4,The Phone X has sound quality is amazing. I love it.,POS
+R0049,2025-09-28,Phone X,3,The Phone X has customer support was unhelpful. I do not like it.,NEG
+R0050,2025-09-28,Headphones Lite,3,The Headphones Lite has sound quality is amazing. I love it.,POS
+R0051,2025-09-21,Smartwatch S,5,The Smartwatch S has fast and responsive. I love it.,POS
+R0052,2025-09-30,Smartwatch S,1,The Smartwatch S has overheats easily. I do not like it.,NEG
+R0053,2025-09-02,Laptop Pro,3,The Laptop Pro has value for money. I love it.,POS
+R0054,2025-09-26,Laptop Pro,4,The Laptop Pro has value for money. I love it.,POS
+R0055,2025-09-20,Smartwatch S,5,The Smartwatch S has value for money. I love it.,POS
+R0056,2025-09-03,Headphones Lite,1,The Headphones Lite has poor build quality. I do not like it.,NEG
+R0057,2025-09-28,Phone X,5,The Phone X has value for money. I love it.,POS
+R0058,2025-09-07,Smartwatch S,4,The Smartwatch S has value for money. I love it.,POS
+R0059,2025-09-19,Phone X,1,The Phone X has battery drains fast. I do not like it.,NEG
+R0060,2025-09-19,Headphones Lite,3,The Headphones Lite has overheats easily. I do not like it.,NEG
+R0061,2025-09-23,Laptop Pro,4,The Laptop Pro has screen flickers. I do not like it.,NEG
+R0062,2025-09-12,Smartwatch S,1,The Smartwatch S has unreliable connection. I do not like it.,NEG
+R0063,2025-09-29,Headphones Lite,5,The Headphones Lite has unreliable connection. I do not like it.,NEG
+R0064,2025-09-02,Smartwatch S,3,The Smartwatch S has too expensive. I do not like it.,NEG
+R0065,2025-09-11,Smartwatch S,5,The Smartwatch S has overheats easily. I do not like it.,NEG
+R0066,2025-09-09,Phone X,5,The Phone X has value for money. I love it.,POS
+R0067,2025-09-14,Headphones Lite,5,The Headphones Lite has value for money. I love it.,POS
+R0068,2025-09-03,Phone X,1,The Phone X has poor build quality. I do not like it.,NEG
+R0069,2025-09-13,Smartwatch S,5,The Smartwatch S has sound quality is amazing. I love it.,POS
+R0070,2025-09-08,Phone X,2,The Phone X has screen flickers. I do not like it.,NEG
+R0071,2025-09-21,Laptop Pro,4,The Laptop Pro has poor build quality. I do not like it.,NEG
+R0072,2025-09-28,Phone X,5,The Phone X has sleek design. I love it.,POS
+R0073,2025-09-01,Laptop Pro,5,The Laptop Pro has fast and responsive. I love it.,POS
+R0074,2025-09-25,Laptop Pro,4,The Laptop Pro has too expensive. I do not like it.,NEG
+R0075,2025-10-01,Laptop Pro,5,The Laptop Pro has battery drains fast. I do not like it.,NEG
+R0076,2025-09-30,Smartwatch S,1,The Smartwatch S has overheats easily. I do not like it.,NEG
+R0077,2025-09-08,Phone X,3,The Phone X has value for money. I love it.,POS
+R0078,2025-09-25,Phone X,3,The Phone X has too expensive. I do not like it.,NEG
+R0079,2025-09-23,Laptop Pro,5,The Laptop Pro has comfortable to use. I love it.,POS
+R0080,2025-09-10,Smartwatch S,2,The Smartwatch S has too expensive. I do not like it.,NEG
+R0081,2025-09-18,Laptop Pro,5,The Laptop Pro has fast and responsive. I love it.,POS
+R0082,2025-09-12,Phone X,1,The Phone X has battery drains fast. I do not like it.,NEG
+R0083,2025-09-19,Headphones Lite,5,The Headphones Lite has value for money. I love it.,POS
+R0084,2025-09-26,Headphones Lite,3,The Headphones Lite has great battery life. I love it.,POS
+R0085,2025-09-11,Headphones Lite,4,The Headphones Lite has battery drains fast. I do not like it.,NEG
+R0086,2025-09-01,Headphones Lite,4,The Headphones Lite has fast and responsive. I love it.,POS
+R0087,2025-09-15,Headphones Lite,1,The Headphones Lite has unreliable connection. I do not like it.,NEG
+R0088,2025-09-11,Headphones Lite,5,The Headphones Lite has comfortable to use. I love it.,POS
+R0089,2025-09-14,Smartwatch S,4,The Smartwatch S has overheats easily. I do not like it.,NEG
+R0090,2025-09-13,Smartwatch S,5,The Smartwatch S has comfortable to use. I love it.,POS
+R0091,2025-09-24,Phone X,3,The Phone X has unreliable connection. I do not like it.,NEG
+R0092,2025-09-05,Headphones Lite,2,The Headphones Lite has too expensive. I do not like it.,NEG
+R0093,2025-09-23,Smartwatch S,5,The Smartwatch S has comfortable to use. I love it.,POS
+R0094,2025-09-27,Smartwatch S,5,The Smartwatch S has excellent camera. I love it.,POS
+R0095,2025-09-23,Headphones Lite,3,The Headphones Lite has great battery life. I love it.,POS
+R0096,2025-09-19,Smartwatch S,5,The Smartwatch S has battery drains fast. I do not like it.,NEG
+R0097,2025-09-07,Phone X,3,The Phone X has battery drains fast. I do not like it.,NEG
+R0098,2025-09-06,Headphones Lite,4,The Headphones Lite has value for money. I love it.,POS
+R0099,2025-09-20,Headphones Lite,4,The Headphones Lite has value for money. I love it.,POS
+R0100,2025-09-03,Laptop Pro,4,The Laptop Pro has sleek design. I love it.,POS
+R0101,2025-09-24,Phone X,3,The Phone X has battery drains fast. I do not like it.,NEG
+R0102,2025-09-05,Phone X,5,The Phone X has comfortable to use. I love it.,POS
+R0103,2025-09-08,Phone X,4,The Phone X has fast and responsive. I love it.,POS
+R0104,2025-09-02,Laptop Pro,5,The Laptop Pro has battery drains fast. I do not like it.,NEG
+R0105,2025-09-25,Headphones Lite,1,The Headphones Lite has overheats easily. I do not like it.,NEG
+R0106,2025-09-04,Phone X,5,The Phone X has sleek design. I love it.,POS
+R0107,2025-09-18,Phone X,5,The Phone X has great battery life. I love it.,POS
+R0108,2025-09-23,Smartwatch S,1,The Smartwatch S has screen flickers. I do not like it.,NEG
+R0109,2025-09-04,Headphones Lite,5,The Headphones Lite has customer support was unhelpful. I do not like it.,NEG
+R0110,2025-09-20,Laptop Pro,3,The Laptop Pro has great battery life. I love it.,POS
+R0111,2025-09-07,Phone X,5,The Phone X has screen flickers. I do not like it.,NEG
+R0112,2025-09-29,Laptop Pro,3,The Laptop Pro has unreliable connection. I do not like it.,NEG
+R0113,2025-09-30,Headphones Lite,1,The Headphones Lite has screen flickers. I do not like it.,NEG
+R0114,2025-09-10,Phone X,5,The Phone X has screen flickers. I do not like it.,NEG
+R0115,2025-09-08,Laptop Pro,5,The Laptop Pro has comfortable to use. I love it.,POS
+R0116,2025-09-26,Phone X,4,The Phone X has too expensive. I do not like it.,NEG
+R0117,2025-09-24,Phone X,4,The Phone X has comfortable to use. I love it.,POS
+R0118,2025-09-14,Phone X,4,The Phone X has excellent camera. I love it.,POS
+R0119,2025-09-14,Smartwatch S,1,The Smartwatch S has unreliable connection. I do not like it.,NEG
+R0120,2025-09-29,Laptop Pro,2,The Laptop Pro has customer support was unhelpful. I do not like it.,NEG
+R0121,2025-09-24,Phone X,5,The Phone X has value for money. I love it.,POS
+R0122,2025-09-23,Phone X,3,The Phone X has screen flickers. I do not like it.,NEG
+R0123,2025-10-01,Phone X,5,The Phone X has too expensive. I do not like it.,NEG
+R0124,2025-09-28,Laptop Pro,5,The Laptop Pro has customer support was unhelpful. I do not like it.,NEG
+R0125,2025-10-01,Laptop Pro,3,The Laptop Pro has sound quality is amazing. I love it.,POS
+R0126,2025-09-23,Laptop Pro,5,The Laptop Pro has poor build quality. I do not like it.,NEG
+R0127,2025-09-21,Smartwatch S,1,The Smartwatch S has screen flickers. I do not like it.,NEG
+R0128,2025-10-01,Headphones Lite,5,The Headphones Lite has poor build quality. I do not like it.,NEG
+R0129,2025-09-29,Headphones Lite,4,The Headphones Lite has value for money. I love it.,POS
+R0130,2025-09-16,Phone X,5,The Phone X has sleek design. I love it.,POS
+R0131,2025-09-18,Phone X,1,The Phone X has unreliable connection. I do not like it.,NEG
+R0132,2025-09-09,Headphones Lite,3,The Headphones Lite has battery drains fast. I do not like it.,NEG
+R0133,2025-09-05,Headphones Lite,4,The Headphones Lite has fast and responsive. I love it.,POS
+R0134,2025-09-08,Headphones Lite,2,The Headphones Lite has overheats easily. I do not like it.,NEG
+R0135,2025-09-11,Headphones Lite,4,The Headphones Lite has great battery life. I love it.,POS
+R0136,2025-09-30,Headphones Lite,5,The Headphones Lite has comfortable to use. I love it.,POS
+R0137,2025-09-26,Laptop Pro,4,The Laptop Pro has comfortable to use. I love it.,POS
+R0138,2025-09-26,Headphones Lite,4,The Headphones Lite has sleek design. I love it.,POS
+R0139,2025-09-30,Smartwatch S,5,The Smartwatch S has excellent camera. I love it.,POS
+R0140,2025-09-09,Phone X,5,The Phone X has great battery life. I love it.,POS
+R0141,2025-09-04,Smartwatch S,1,The Smartwatch S has screen flickers. I do not like it.,NEG
+R0142,2025-09-21,Headphones Lite,5,The Headphones Lite has customer support was unhelpful. I do not like it.,NEG
+R0143,2025-09-05,Headphones Lite,4,The Headphones Lite has fast and responsive. I love it.,POS
+R0144,2025-09-24,Laptop Pro,4,The Laptop Pro has value for money. I love it.,POS
+R0145,2025-09-09,Smartwatch S,5,The Smartwatch S has comfortable to use. I love it.,POS
+R0146,2025-09-17,Smartwatch S,4,The Smartwatch S has value for money. I love it.,POS
+R0147,2025-09-19,Smartwatch S,5,The Smartwatch S has sound quality is amazing. I love it.,POS
+R0148,2025-09-24,Headphones Lite,4,The Headphones Lite has great battery life. I love it.,POS
+R0149,2025-09-16,Smartwatch S,4,The Smartwatch S has sleek design. I love it.,POS
+R0150,2025-09-14,Headphones Lite,5,The Headphones Lite has value for money. I love it.,POS
+R0151,2025-09-09,Headphones Lite,3,The Headphones Lite has sleek design. I love it.,POS
+R0152,2025-09-16,Headphones Lite,4,The Headphones Lite has value for money. I love it.,POS
+R0153,2025-09-18,Headphones Lite,5,The Headphones Lite has comfortable to use. I love it.,POS
+R0154,2025-09-20,Laptop Pro,1,The Laptop Pro has battery drains fast. I do not like it.,NEG
+R0155,2025-09-05,Smartwatch S,1,The Smartwatch S has battery drains fast. I do not like it.,NEG
+R0156,2025-09-20,Laptop Pro,1,The Laptop Pro has poor build quality. I do not like it.,NEG
+R0157,2025-09-08,Headphones Lite,3,The Headphones Lite has screen flickers. I do not like it.,NEG
+R0158,2025-09-03,Phone X,4,The Phone X has sleek design. I love it.,POS
+R0159,2025-09-24,Smartwatch S,5,The Smartwatch S has comfortable to use. I love it.,POS
+R0160,2025-09-15,Laptop Pro,4,The Laptop Pro has screen flickers. I do not like it.,NEG
+R0161,2025-09-12,Laptop Pro,5,The Laptop Pro has value for money. I love it.,POS
+R0162,2025-09-19,Headphones Lite,1,The Headphones Lite has screen flickers. I do not like it.,NEG
+R0163,2025-09-05,Headphones Lite,4,The Headphones Lite has value for money. I love it.,POS
+R0164,2025-09-08,Smartwatch S,1,The Smartwatch S has customer support was unhelpful. I do not like it.,NEG
+R0165,2025-09-05,Smartwatch S,4,The Smartwatch S has sound quality is amazing. I love it.,POS
+R0166,2025-09-30,Headphones Lite,4,The Headphones Lite has fast and responsive. I love it.,POS
+R0167,2025-09-07,Laptop Pro,5,The Laptop Pro has excellent camera. I love it.,POS
+R0168,2025-09-19,Headphones Lite,5,The Headphones Lite has great battery life. I love it.,POS
+R0169,2025-09-09,Phone X,3,The Phone X has sleek design. I love it.,POS
+R0170,2025-09-16,Headphones Lite,1,The Headphones Lite has poor build quality. I do not like it.,NEG
+R0171,2025-09-07,Smartwatch S,4,The Smartwatch S has sleek design. I love it.,POS
+R0172,2025-09-30,Phone X,4,The Phone X has sleek design. I love it.,POS
+R0173,2025-09-21,Headphones Lite,4,The Headphones Lite has value for money. I love it.,POS
+R0174,2025-09-01,Laptop Pro,1,The Laptop Pro has poor build quality. I do not like it.,NEG
+R0175,2025-09-29,Laptop Pro,5,The Laptop Pro has fast and responsive. I love it.,POS
+R0176,2025-09-11,Smartwatch S,5,The Smartwatch S has fast and responsive. I love it.,POS
+R0177,2025-09-02,Smartwatch S,5,The Smartwatch S has fast and responsive. I love it.,POS
+R0178,2025-09-12,Smartwatch S,3,The Smartwatch S has unreliable connection. I do not like it.,NEG
+R0179,2025-09-15,Laptop Pro,4,The Laptop Pro has too expensive. I do not like it.,NEG
+R0180,2025-09-12,Phone X,3,The Phone X has sleek design. I love it.,POS
+R0181,2025-09-22,Headphones Lite,5,The Headphones Lite has too expensive. I do not like it.,NEG
+R0182,2025-09-17,Headphones Lite,4,The Headphones Lite has comfortable to use. I love it.,POS
+R0183,2025-09-19,Phone X,3,The Phone X has sleek design. I love it.,POS
+R0184,2025-10-01,Laptop Pro,3,The Laptop Pro has value for money. I love it.,POS
+R0185,2025-09-15,Smartwatch S,5,The Smartwatch S has fast and responsive. I love it.,POS
+R0186,2025-09-15,Phone X,5,The Phone X has fast and responsive. I love it.,POS
+R0187,2025-09-26,Smartwatch S,4,The Smartwatch S has sound quality is amazing. I love it.,POS
+R0188,2025-09-25,Smartwatch S,3,The Smartwatch S has poor build quality. I do not like it.,NEG
+R0189,2025-09-19,Headphones Lite,5,The Headphones Lite has excellent camera. I love it.,POS
+R0190,2025-09-19,Phone X,5,The Phone X has value for money. I love it.,POS
+R0191,2025-09-23,Laptop Pro,3,The Laptop Pro has battery drains fast. I do not like it.,NEG
+R0192,2025-09-26,Smartwatch S,3,The Smartwatch S has excellent camera. I love it.,POS
+R0193,2025-09-23,Smartwatch S,4,The Smartwatch S has great battery life. I love it.,POS
+R0194,2025-09-04,Smartwatch S,5,The Smartwatch S has value for money. I love it.,POS
+R0195,2025-10-01,Smartwatch S,1,The Smartwatch S has screen flickers. I do not like it.,NEG
+R0196,2025-09-23,Headphones Lite,4,The Headphones Lite has comfortable to use. I love it.,POS
+R0197,2025-09-29,Smartwatch S,4,The Smartwatch S has sleek design. I love it.,POS
+R0198,2025-09-22,Headphones Lite,3,The Headphones Lite has too expensive. I do not like it.,NEG
+R0199,2025-09-30,Smartwatch S,4,The Smartwatch S has battery drains fast. I do not like it.,NEG
+R0200,2025-09-17,Headphones Lite,3,The Headphones Lite has great battery life. I love it.,POS
+R0201,2025-09-14,Phone X,3,The Phone X has comfortable to use. I love it.,POS
+R0202,2025-09-24,Laptop Pro,4,The Laptop Pro has value for money. I love it.,POS
+R0203,2025-09-20,Headphones Lite,3,The Headphones Lite has sleek design. I love it.,POS
+R0204,2025-09-02,Laptop Pro,4,The Laptop Pro has excellent camera. I love it.,POS
+R0205,2025-09-17,Smartwatch S,3,The Smartwatch S has comfortable to use. I love it.,POS
+R0206,2025-09-24,Smartwatch S,3,The Smartwatch S has excellent camera. I love it.,POS
+R0207,2025-09-26,Laptop Pro,5,The Laptop Pro has fast and responsive. I love it.,POS
+R0208,2025-09-02,Headphones Lite,5,The Headphones Lite has value for money. I love it.,POS
+R0209,2025-09-10,Headphones Lite,5,The Headphones Lite has great battery life. I love it.,POS
+R0210,2025-09-07,Smartwatch S,3,The Smartwatch S has great battery life. I love it.,POS
+R0211,2025-09-10,Phone X,4,The Phone X has value for money. I love it.,POS
+R0212,2025-09-05,Smartwatch S,4,The Smartwatch S has great battery life. I love it.,POS
+R0213,2025-09-24,Phone X,5,The Phone X has comfortable to use. I love it.,POS
+R0214,2025-09-01,Headphones Lite,1,The Headphones Lite has unreliable connection. I do not like it.,NEG
+R0215,2025-09-20,Smartwatch S,1,The Smartwatch S has overheats easily. I do not like it.,NEG
+R0216,2025-09-29,Laptop Pro,4,The Laptop Pro has fast and responsive. I love it.,POS
+R0217,2025-09-25,Headphones Lite,4,The Headphones Lite has fast and responsive. I love it.,POS
+R0218,2025-09-01,Smartwatch S,4,The Smartwatch S has comfortable to use. I love it.,POS
+R0219,2025-09-03,Smartwatch S,2,The Smartwatch S has customer support was unhelpful. I do not like it.,NEG
+R0220,2025-09-13,Smartwatch S,5,The Smartwatch S has overheats easily. I do not like it.,NEG
+R0221,2025-09-08,Phone X,2,The Phone X has customer support was unhelpful. I do not like it.,NEG
+R0222,2025-09-30,Headphones Lite,4,The Headphones Lite has great battery life. I love it.,POS
+R0223,2025-09-27,Smartwatch S,4,The Smartwatch S has fast and responsive. I love it.,POS
+R0224,2025-09-07,Laptop Pro,3,The Laptop Pro has battery drains fast. I do not like it.,NEG
+R0225,2025-09-19,Phone X,4,The Phone X has comfortable to use. I love it.,POS
+R0226,2025-09-01,Headphones Lite,3,The Headphones Lite has screen flickers. I do not like it.,NEG
+R0227,2025-09-17,Laptop Pro,4,The Laptop Pro has value for money. I love it.,POS
+R0228,2025-09-03,Phone X,5,The Phone X has value for money. I love it.,POS
+R0229,2025-09-05,Smartwatch S,4,The Smartwatch S has screen flickers. I do not like it.,NEG
+R0230,2025-10-01,Laptop Pro,1,The Laptop Pro has too expensive. I do not like it.,NEG
+R0231,2025-09-03,Laptop Pro,3,The Laptop Pro has too expensive. I do not like it.,NEG
+R0232,2025-09-25,Smartwatch S,5,The Smartwatch S has sleek design. I love it.,POS
+R0233,2025-09-01,Headphones Lite,2,The Headphones Lite has battery drains fast. I do not like it.,NEG
+R0234,2025-09-27,Phone X,5,The Phone X has great battery life. I love it.,POS
+R0235,2025-09-25,Phone X,5,The Phone X has excellent camera. I love it.,POS
+R0236,2025-09-29,Laptop Pro,4,The Laptop Pro has comfortable to use. I love it.,POS
+R0237,2025-09-10,Laptop Pro,1,The Laptop Pro has unreliable connection. I do not like it.,NEG
+R0238,2025-09-13,Smartwatch S,5,The Smartwatch S has value for money. I love it.,POS
+R0239,2025-09-21,Laptop Pro,4,The Laptop Pro has value for money. I love it.,POS
+R0240,2025-09-04,Headphones Lite,3,The Headphones Lite has poor build quality. I do not like it.,NEG
+R0241,2025-09-03,Phone X,5,The Phone X has too expensive. I do not like it.,NEG
+R0242,2025-09-04,Headphones Lite,2,The Headphones Lite has unreliable connection. I do not like it.,NEG
+R0243,2025-09-13,Smartwatch S,5,The Smartwatch S has screen flickers. I do not like it.,NEG
+R0244,2025-09-05,Headphones Lite,5,The Headphones Lite has overheats easily. I do not like it.,NEG
+R0245,2025-09-03,Headphones Lite,3,The Headphones Lite has poor build quality. I do not like it.,NEG
+R0246,2025-09-23,Headphones Lite,5,The Headphones Lite has screen flickers. I do not like it.,NEG
+R0247,2025-09-26,Phone X,3,The Phone X has customer support was unhelpful. I do not like it.,NEG
+R0248,2025-09-18,Smartwatch S,5,The Smartwatch S has sleek design. I love it.,POS
+R0249,2025-09-26,Headphones Lite,5,The Headphones Lite has unreliable connection. I do not like it.,NEG
+R0250,2025-09-10,Smartwatch S,4,The Smartwatch S has poor build quality. I do not like it.,NEG
+R0251,2025-09-11,Headphones Lite,4,The Headphones Lite has overheats easily. I do not like it.,NEG
+R0252,2025-09-09,Smartwatch S,5,The Smartwatch S has excellent camera. I love it.,POS
+R0253,2025-09-14,Headphones Lite,1,The Headphones Lite has poor build quality. I do not like it.,NEG
+R0254,2025-09-14,Phone X,3,The Phone X has comfortable to use. I love it.,POS
+R0255,2025-09-07,Laptop Pro,4,The Laptop Pro has great battery life. I love it.,POS
+R0256,2025-09-09,Laptop Pro,5,The Laptop Pro has screen flickers. I do not like it.,NEG
+R0257,2025-09-02,Laptop Pro,3,The Laptop Pro has great battery life. I love it.,POS
+R0258,2025-09-19,Laptop Pro,5,The Laptop Pro has fast and responsive. I love it.,POS
+R0259,2025-09-07,Smartwatch S,4,The Smartwatch S has overheats easily. I do not like it.,NEG
+R0260,2025-09-22,Smartwatch S,5,The Smartwatch S has unreliable connection. I do not like it.,NEG
+R0261,2025-09-24,Headphones Lite,3,The Headphones Lite has poor build quality. I do not like it.,NEG
+R0262,2025-09-02,Headphones Lite,1,The Headphones Lite has battery drains fast. I do not like it.,NEG
+R0263,2025-09-28,Smartwatch S,4,The Smartwatch S has value for money. I love it.,POS
+R0264,2025-09-13,Laptop Pro,4,The Laptop Pro has great battery life. I love it.,POS
+R0265,2025-09-03,Smartwatch S,4,The Smartwatch S has poor build quality. I do not like it.,NEG
+R0266,2025-09-07,Headphones Lite,4,The Headphones Lite has screen flickers. I do not like it.,NEG
+R0267,2025-09-17,Laptop Pro,4,The Laptop Pro has overheats easily. I do not like it.,NEG
+R0268,2025-09-06,Headphones Lite,5,The Headphones Lite has screen flickers. I do not like it.,NEG
+R0269,2025-09-27,Phone X,5,The Phone X has excellent camera. I love it.,POS
+R0270,2025-09-18,Smartwatch S,4,The Smartwatch S has poor build quality. I do not like it.,NEG
+R0271,2025-09-03,Headphones Lite,4,The Headphones Lite has poor build quality. I do not like it.,NEG
+R0272,2025-09-06,Smartwatch S,3,The Smartwatch S has sleek design. I love it.,POS
+R0273,2025-09-04,Phone X,5,The Phone X has sound quality is amazing. I love it.,POS
+R0274,2025-09-13,Smartwatch S,1,The Smartwatch S has screen flickers. I do not like it.,NEG
+R0275,2025-09-13,Headphones Lite,3,The Headphones Lite has fast and responsive. I love it.,POS
+R0276,2025-09-02,Headphones Lite,5,The Headphones Lite has customer support was unhelpful. I do not like it.,NEG
+R0277,2025-09-03,Laptop Pro,4,The Laptop Pro has poor build quality. I do not like it.,NEG
+R0278,2025-09-12,Smartwatch S,3,The Smartwatch S has great battery life. I love it.,POS
+R0279,2025-09-10,Laptop Pro,4,The Laptop Pro has excellent camera. I love it.,POS
+R0280,2025-09-24,Smartwatch S,5,The Smartwatch S has overheats easily. I do not like it.,NEG
+R0281,2025-09-15,Laptop Pro,4,The Laptop Pro has sound quality is amazing. I love it.,POS
+R0282,2025-09-21,Phone X,2,The Phone X has battery drains fast. I do not like it.,NEG
+R0283,2025-09-18,Smartwatch S,5,The Smartwatch S has too expensive. I do not like it.,NEG
+R0284,2025-09-01,Phone X,2,The Phone X has unreliable connection. I do not like it.,NEG
+R0285,2025-09-07,Smartwatch S,3,The Smartwatch S has too expensive. I do not like it.,NEG
+R0286,2025-09-29,Phone X,1,The Phone X has overheats easily. I do not like it.,NEG
+R0287,2025-09-19,Headphones Lite,4,The Headphones Lite has excellent camera. I love it.,POS
+R0288,2025-09-04,Phone X,3,The Phone X has value for money. I love it.,POS
+R0289,2025-09-27,Smartwatch S,1,The Smartwatch S has poor build quality. I do not like it.,NEG
+R0290,2025-09-29,Headphones Lite,5,The Headphones Lite has comfortable to use. I love it.,POS
+R0291,2025-09-01,Smartwatch S,5,The Smartwatch S has sleek design. I love it.,POS
+R0292,2025-09-08,Headphones Lite,5,The Headphones Lite has unreliable connection. I do not like it.,NEG
+R0293,2025-09-17,Phone X,5,The Phone X has sleek design. I love it.,POS
+R0294,2025-09-06,Smartwatch S,5,The Smartwatch S has great battery life. I love it.,POS
+R0295,2025-09-06,Phone X,3,The Phone X has sleek design. I love it.,POS
+R0296,2025-09-19,Smartwatch S,5,The Smartwatch S has great battery life. I love it.,POS
+R0297,2025-09-15,Laptop Pro,3,The Laptop Pro has battery drains fast. I do not like it.,NEG
+R0298,2025-09-21,Phone X,5,The Phone X has great battery life. I love it.,POS
+R0299,2025-09-11,Headphones Lite,5,The Headphones Lite has great battery life. I love it.,POS
+R0300,2025-09-25,Laptop Pro,1,The Laptop Pro has too expensive. I do not like it.,NEG
